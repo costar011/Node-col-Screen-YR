@@ -26,3 +26,15 @@
 
   background-color: blue;
 }
+
+.ind .ind__main .ind__main-2 {
+  width: 900px;
+  height: 1000%;
+
+  background-color: brown;
+}
+
+.ind .ind__bottom {
+  display: flex;
+  flex-direction: row;
+}
