@@ -7,3 +7,22 @@
   display: flex;
   flex-direction: column;
 }
+
+.ind .ind__top {
+  width: 100%;
+  height: 10vh;
+
+  background-color: aquamarine;
+}
+
+.ind .ind__main {
+  display: flex;
+  flex-direction: row;
+}
+
+.ind .ind__main .ind__main-1 {
+  width: 600px;
+  height: 40vh;
+
+  background-color: blue;
+}
